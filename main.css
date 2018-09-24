@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: #7cfc00;
+}
+p {
+	font-family: 'Lobster', cursive;
+	font-size:20px;
+}
+nav {
+	text-align: center;
+    width: auto;
+    margin: 0 auto;
+    padding-top: 3px;
+    padding-bottom: 10px;
+
+}
+
+h1{
+	text-align: center;
+	margin: 0;
+	padding-top: 5px;
+}
+
+ul , li , a {
+	display: inline;
+	font-family: 'Shadows Into Light', cursive;
+	text-decoration: none;
+	position: center;
+
+}
+
+a ,a:hover {
+	text-decoration: none;
+	font-size: 29px;
+	position: center;
+}
+
+.test{
+
+	margin: auto;
+    width: 50%;
+    
+    padding: 10px;
+}
+
+nav_left .left {
+	text-align: left;
+	padding-top: 50px;
+}
